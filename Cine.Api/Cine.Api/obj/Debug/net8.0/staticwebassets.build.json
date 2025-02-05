@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eKR3C30NG0cLS0PzN+9M+KxGrWwoL7ZGufETfbdcegc=",
+  "Source": "Cine.Api",
+  "BasePath": "_content/Cine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "Cine.Api.Controllers.FuncionController",
+    "Method": "GetFunciones",
+    "RelativePath": "api/Funcion/GetFunciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SalaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "GeneroId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "HoraInicio",
+        "Type": "System.Nullable\u00601[[System.TimeSpan, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.VwFuncion, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Cine.Api.Controllers.FuncionController",
+    "Method": "GetFuncionesByPeliculaId",
+    "RelativePath": "api/Funcion/GetFuncionesByPeliculaId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "peliculaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.VwFuncion, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Cine.Api.Controllers.GeneroController",
+    "Method": "GetGeneros",
+    "RelativePath": "api/Genero/GetGeneros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.Genero, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Cine.Api.Controllers.PeliculaController",
+    "Method": "GetPeliculaById",
+    "RelativePath": "api/Pelicula/GetPeliculaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "peliculaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.Pelicula, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Cine.Api.Controllers.PeliculaController",
+    "Method": "GetPeliculas",
+    "RelativePath": "api/Pelicula/GetPeliculas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.Pelicula, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Cine.Api.Controllers.SalaController",
+    "Method": "GetSalas",
+    "RelativePath": "api/Sala/GetSalas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Cine.Api.Wrappers.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[Cine.Api.Models.Sala, Cine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

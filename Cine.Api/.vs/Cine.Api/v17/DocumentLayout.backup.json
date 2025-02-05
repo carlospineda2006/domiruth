@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\funcionservice\\funcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\funcionservice\\funcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\dto\\funcion\\vwfuncionesporpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\dto\\funcion\\vwfuncionesporpelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\controllers\\funcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\controllers\\funcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\funcionservice\\ifuncionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\funcionservice\\ifuncionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\generoservice\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\generoservice\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\peliculaservice\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\peliculaservice\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\salaservice\\isalaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\salaservice\\isalaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\salaservice\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\salaservice\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|c:\\users\\carlo\\onedrive\\escritorio\\domiruth\\cine.api\\cine.api\\services\\generoservice\\igeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBC81E5-BE17-4B98-B707-3219B341966D}|Cine.Api\\Cine.Api.csproj|solutionrelative:cine.api\\services\\generoservice\\igeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Data\\DataContext.cs",
+              "RelativeToolTip": "Cine.Api\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:08:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VwFuncionesPorPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\DTO\\Funcion\\VwFuncionesPorPelicula.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\DTO\\Funcion\\VwFuncionesPorPelicula.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\DTO\\Funcion\\VwFuncionesPorPelicula.cs",
+              "RelativeToolTip": "Cine.Api\\DTO\\Funcion\\VwFuncionesPorPelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:08:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Cine.Api\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:40:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalaService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\SalaService\\SalaService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\SalaService\\SalaService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\SalaService\\SalaService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\SalaService\\SalaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:11:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISalaService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\SalaService\\ISalaService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\SalaService\\ISalaService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\SalaService\\ISalaService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\SalaService\\ISalaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:10:44.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneroService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\GeneroService\\GeneroService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\GeneroService\\GeneroService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\GeneroService\\GeneroService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\GeneroService\\GeneroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:35:29.117Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\FuncionController.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Controllers\\FuncionController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\FuncionController.cs",
+              "RelativeToolTip": "Cine.Api\\Controllers\\FuncionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:01:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFuncionService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\FuncionService\\IFuncionService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\FuncionService\\IFuncionService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\FuncionService\\IFuncionService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\FuncionService\\IFuncionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:52:43.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\FuncionService\\FuncionService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\FuncionService\\FuncionService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\FuncionService\\FuncionService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\FuncionService\\FuncionService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:52:45.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\PeliculaService\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\PeliculaService\\IPeliculaService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\PeliculaService\\IPeliculaService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\PeliculaService\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:21:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\SalaController.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Controllers\\SalaController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\SalaController.cs",
+              "RelativeToolTip": "Cine.Api\\Controllers\\SalaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:10:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "Cine.Api\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:17:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGeneroService.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\GeneroService\\IGeneroService.cs",
+              "RelativeDocumentMoniker": "Cine.Api\\Services\\GeneroService\\IGeneroService.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\Domiruth\\Cine.Api\\Cine.Api\\Services\\GeneroService\\IGeneroService.cs",
+              "RelativeToolTip": "Cine.Api\\Services\\GeneroService\\IGeneroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:35:20.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
